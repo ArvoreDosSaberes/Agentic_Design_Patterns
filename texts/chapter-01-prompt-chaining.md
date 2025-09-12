@@ -94,6 +94,12 @@ print(final_result)
 
 Context Engineering (see Fig.1) is the systematic discipline of designing, constructing, and delivering a complete informational environment to an AI model prior to token generation. This methodology asserts that the quality of a model's output is less dependent on the model's architecture itself and more on the richness of the context provided.
 
+<figure>
+<img style="display: block; margin: auto; center" src="../imgs/fig.1.png" alt="Context Engineering is the discipline of building a rich, comprehensive informational environment for an AI, as the quality of this context is a primary factor in enabling advanced Agentic performance">
+
+<figcaption>Fig.1: Context Engineering is the discipline of building a rich, comprehensive informational environment for an AI, as the quality of this context is a primary factor in enabling advanced Agentic performance</figcaption>
+</center></figure>
+
 It represents a significant evolution from traditional prompt engineering, which focuses primarily on optimizing the phrasing of a user's immediate query. Context Engineering expands this scope to include several layers of information, such as the system prompt, retrieved documents, tool outputs, and implicit data like user identity and interaction history. Specialized tuning systems (e.g., Vertex Prompt Optimizer) can automate improvement at scale.
 
 ## At a Glance

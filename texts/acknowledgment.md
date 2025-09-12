@@ -13,3 +13,8 @@ I want to express my sincere gratitude to Thomas Kurian for his unwavering leade
 I extend my gratitude to Demis Hassabis, Pushmeet Kohli, and the entire GDM team for their passionate efforts in developing Gemini, AlphaFold, AlphaGo, and AlphaGenome, among other projects, and for their contributions to advancing science for the benefit of society. A special thank you to Yossi Matias for his leadership of Google Research and for consistently offering invaluable advice. I have learned a great deal from you.
 A special thanks to Patti Maes, who pioneered the concept of Software Agents in the 90s and remains focused on the question of how computer systems and digital devices might augment people and assist them with issues such as memory, learning, decision making, health, and wellbeing. Your vision back in '91 became a reality today.
 I also want to extend my gratitude to Paul Drougas and all the Publisher team at Springer for making this book possible.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Dedication](dedication.md) | [Foreword](foreword.md) |

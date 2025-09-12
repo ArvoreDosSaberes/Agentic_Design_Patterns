@@ -187,3 +187,8 @@ root_agent = SequentialAgent(
 1. LCEL Parallelism: https://python.langchain.com/docs/concepts/lcel/
 2. Google ADK Multi-Agents: https://google.github.io/adk-docs/agents/multi-agents/
 3. Python asyncio: https://docs.python.org/3/library/asyncio.html
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 2: Routing](chapter-02-routing.md) | [Chapter 4: Reflection](chapter-04-reflection.md) |

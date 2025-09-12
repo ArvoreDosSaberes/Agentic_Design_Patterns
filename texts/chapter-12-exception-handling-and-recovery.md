@@ -37,3 +37,8 @@ Sequência com três agentes: primário → fallback → apresentador de resulta
 ## References
 
 - Consulte o documento original do capítulo para exemplos detalhados e código ADK.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 11: Goal Setting and Monitoring](chapter-11-goal-setting-and-monitoring.md) | [Chapter 13: Human-in-the-Loop](chapter-13-human-in-the-loop.md) |

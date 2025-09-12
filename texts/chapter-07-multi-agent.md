@@ -90,3 +90,8 @@ print(crew.kickoff())
 ## Referências
 
 - Conceitos detalhados e exemplos adicionais constam no documento original do capítulo Multi-Agent.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 6: Planning](chapter-06-planning.md) | [Chapter 8: Memory Management](chapter-08-memory-management.md) |

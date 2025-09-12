@@ -14,3 +14,8 @@ Panorama de agentes no terminal (CLI): uso de ferramentas como Claude CLI, Gemin
 ## Conclusão
 
 Agentes na CLI ampliam a produtividade de desenvolvedores e operações, desde tarefas simples até pipelines complexos, mantendo rastreabilidade e controle.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Appendix D: Building an Agent with AgentSpace (online)](appendix-d-building-agent-with-agentspace.md) | [Appendix F: Under the Hood — Agents’ Reasoning Engines](appendix-f-under-the-hood-reasoning-engines.md) |

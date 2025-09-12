@@ -33,3 +33,8 @@ Prompt para o LLM gerar JSON aderente ao schema e depois validar/parsing na apli
 ## Referências
 
 - Ver capítulo original para guia completo, exemplos e referências.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 21: Exploration and Discovery](chapter-21-exploration-and-discovery.md) | [Appendix B: AI Agentic — From GUI to Real World Environment](appendix-b-ai-agentic-from-gui-to-real-world.md) |

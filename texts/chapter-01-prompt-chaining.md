@@ -113,3 +113,8 @@ Rule of thumb: Use when tasks require multiple processing stages, external tools
 5. Crew AI Documentation: https://docs.crewai.com/
 6. Google AI for Developers (Prompting Guides): https://cloud.google.com/discover/what-is-prompt-engineering?hl=en
 7. Vertex Prompt Optimizer: https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/prompt-optimizer
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Introduction](introduction.md) | [Chapter 2: Routing](chapter-02-routing.md) |

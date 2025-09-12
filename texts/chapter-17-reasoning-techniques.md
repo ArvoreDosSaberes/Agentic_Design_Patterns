@@ -26,3 +26,8 @@ Fluxo típico: `plan → search (paralelo) → reflect → evaluate → finalize
 - O que: estruturas e heurísticas para pensar melhor.
 - Por quê: precisão, robustez e transparência.
 - Como: CoT, self-consistency, árvores/grafos, reflexão e ferramentas.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 16: Resource-Aware Optimization](chapter-16-resource-aware-optimization.md) | [Chapter 18: Guardrails / Safety Patterns](chapter-18-guardrails-safety-patterns.md) |

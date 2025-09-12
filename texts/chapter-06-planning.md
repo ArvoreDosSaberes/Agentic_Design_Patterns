@@ -67,3 +67,8 @@ print(result)
 ## Referências
 
 - Seções e exemplos detalhados no documento original do capítulo Planning.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 5: Tool Use](chapter-05-tool-use.md) | [Chapter 7: Multi-Agent](chapter-07-multi-agent.md) |

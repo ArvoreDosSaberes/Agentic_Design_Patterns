@@ -15,3 +15,8 @@ This is the promise of agentic frameworks. It’s the difference between a stati
 As exhilarating as this new frontier is, it brings a profound sense of responsibility, particularly from my vantage point as the CIO of a global financial institution. The stakes are immeasurably high. An agent that makes a mistake while creating a recipe for a "Chicken Salmon Fusion Pie" is a fun anecdote. An agent that makes a mistake while executing a trade, managing risk, or handling client data is a real problem. I’ve read the disclaimers and the cautionary tales: the web automation agent that, after failing a login, decided to email a member of parliament to complain about login walls. It’s a darkly humorous reminder that we are dealing with a technology we don’t fully understand.
 
 This is where craft, culture, and a relentless focus on our principles become our essential guide. Our Engineering Tenets are not just words on a page; they are our compass. We must Build with Purpose, ensuring that every agent we design starts from a clear understanding of the client problem we are solving. We must Look Around Corners, anticipating failure modes and designing systems that are resilient by design. And above all, we must Inspire Trust, by being transparent about our methods and accountable for our outcomes.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Foreword](foreword.md) | [Introduction](introduction.md) |

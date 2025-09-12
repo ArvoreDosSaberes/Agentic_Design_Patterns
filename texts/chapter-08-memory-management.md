@@ -104,3 +104,8 @@ Serviço gerenciado do Vertex AI Agent Engine para memórias persistentes do usu
 - Atualize `state` de forma estruturada (ex.: `output_key`, `EventActions.state_delta` ou ferramentas ADK).
 - Para conversas, `ConversationBufferMemory` simplifica; para longo prazo, use stores + embeddings.
 - Memory Bank (Vertex) oferece persistência e recall automáticos.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 7: Multi-Agent](chapter-07-multi-agent.md) | [Chapter 9: Learning and Adaptation](chapter-09-learning-and-adaptation.md) |

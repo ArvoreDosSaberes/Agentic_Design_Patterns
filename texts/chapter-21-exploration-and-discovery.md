@@ -28,3 +28,8 @@ Padrões típicos:
 - O que: expandir conhecimento e encontrar soluções não óbvias.
 - Por quê: lidar com incerteza/novidade além do visto em treino.
 - Como: hipóteses + experimentos + atualização de crenças sob orçamento.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 20: Prioritization](chapter-20-prioritization.md) | [Appendix A: Advanced Prompting Techniques](appendix-a-advanced-prompting-techniques.md) |

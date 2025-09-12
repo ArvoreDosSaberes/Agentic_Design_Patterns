@@ -29,3 +29,8 @@ Panorama resumido de frameworks para agentes e orquestração.
 ## Referências
 
 - Consulte o apêndice original para snippets ilustrativos e comparativos.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Appendix B: AI Agentic — From GUI to Real World Environment](appendix-b-ai-agentic-from-gui-to-real-world.md) | [Appendix D: Building an Agent with AgentSpace (online)](appendix-d-building-agent-with-agentspace.md) |

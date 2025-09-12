@@ -39,3 +39,8 @@ ADK:
 ## References
 
 - Ver o capítulo original para exemplos completos de código com Vertex RAG e LangChain/LangGraph.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 13: Human-in-the-Loop](chapter-13-human-in-the-loop.md) | [Chapter 15: Inter-Agent Communication (A2A)](chapter-15-inter-agent-communication.md) |

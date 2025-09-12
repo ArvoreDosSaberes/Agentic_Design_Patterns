@@ -48,3 +48,8 @@ Organização de contexto: prompts de sistema (objetivos/regras), documentação
 ## References
 
 - Consulte o documento original para detalhes e figuras (SICA, AlphaEvolve) e bibliografia associada.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 8: Memory Management](chapter-08-memory-management.md) | [Chapter 10: Model Context Protocol (MCP)](chapter-10-model-context-protocol-mcp.md) |

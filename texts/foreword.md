@@ -12,3 +12,8 @@ I am thrilled to see this book in the hands of the developer community. The patt
 
 Saurabh Tiwary  
 VP & General Manager, CloudAI @ Google
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Acknowledgment](acknowledgment.md) | [A Thought Leader's Perspective: Power and Responsibility](thought-leaders-perspective.md) |

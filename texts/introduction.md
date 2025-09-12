@@ -41,3 +41,8 @@ The book is organized chapter by chapter, with each chapter delving into a singl
 - References: materiais para aprofundamento.
 
 Embora a ordem construa conceitos progressivamente, você pode usar como referência, indo direto ao capítulo que resolve seu problema. Os apêndices cobrem técnicas avançadas de prompting, princípios para aplicação de agentes no mundo real e visão geral de frameworks, além de tutoriais on-line.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [A Thought Leader's Perspective: Power and Responsibility](thought-leaders-perspective.md) | [Chapter 1: Prompt Chaining](chapter-01-prompt-chaining.md) |

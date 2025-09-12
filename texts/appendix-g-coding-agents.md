@@ -28,3 +28,8 @@ Padrões e práticas para agentes de codificação que atuam como membros de equ
 ## Conclusão
 
 Agentes de código eficazes combinam entendimento de requisitos, execução segura e ciclos de verificação, integrando-se a fluxos de engenharia modernos.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Appendix F: Under the Hood — Agents’ Reasoning Engines](appendix-f-under-the-hood-reasoning-engines.md) | [Conclusion](conclusion.md) |

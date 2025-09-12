@@ -55,3 +55,8 @@ A implementação completa inclui utilitários para gerar prompt, revisar códig
 ## References
 
 - SMART Goals Framework: https://en.wikipedia.org/wiki/SMART_criteria
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 10: Model Context Protocol (MCP)](chapter-10-model-context-protocol-mcp.md) | [Chapter 12: Exception Handling and Recovery](chapter-12-exception-handling-and-recovery.md) |

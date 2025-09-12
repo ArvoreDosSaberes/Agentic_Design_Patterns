@@ -18,3 +18,8 @@ O AgentSpace fornece um caminho visual para prototipar e operar agentes, útil p
 ## Referências
 
 - Consulte o apêndice original para instruções passo a passo e links.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Appendix C: Quick Overview of Agentic Frameworks](appendix-c-quick-overview-agentic-frameworks.md) | [Appendix E: AI Agents on the CLI (online)](appendix-e-ai-agents-on-the-cli.md) |

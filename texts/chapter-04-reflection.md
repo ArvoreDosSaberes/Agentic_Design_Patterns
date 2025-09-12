@@ -65,3 +65,8 @@ print(reflect("Prompt Chaining"))
 ## References
 
 - Conceitos e exemplos adicionais estão distribuídos ao longo do documento original do capítulo.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 3: Parallelization](chapter-03-parallelization.md) | [Chapter 5: Tool Use](chapter-05-tool-use.md) |

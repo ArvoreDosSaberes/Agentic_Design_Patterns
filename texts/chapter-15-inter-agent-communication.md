@@ -28,3 +28,8 @@ A2A não substitui MCP (padrão de integração com ferramentas/sistemas). MCP f
 - O que: padrões de comunicação agente↔agente.
 - Por quê: modularidade, paralelismo e robustez.
 - Como: contratos claros, telemetria e estratégias de acoplamento.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 14: Knowledge Retrieval (RAG)](chapter-14-knowledge-retrieval-rag.md) | [Chapter 16: Resource-Aware Optimization](chapter-16-resource-aware-optimization.md) |

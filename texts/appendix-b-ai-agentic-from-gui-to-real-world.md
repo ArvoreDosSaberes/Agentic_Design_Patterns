@@ -29,3 +29,8 @@ Explora como agentes interagem com computadores (GUI, IDEs, terminais) e com o a
 ## Referências
 
 - Ver apêndice original para exemplos e links.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Appendix A: Advanced Prompting Techniques](appendix-a-advanced-prompting-techniques.md) | [Appendix C: Quick Overview of Agentic Frameworks](appendix-c-quick-overview-agentic-frameworks.md) |

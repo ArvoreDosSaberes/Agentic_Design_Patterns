@@ -29,3 +29,8 @@ Human-in-the-Loop (HITL) introduz checkpoints humanos em fluxos agentic para dec
 ## References
 
 - Ver documento original para exemplos detalhados de código/ADK.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 12: Exception Handling and Recovery](chapter-12-exception-handling-and-recovery.md) | [Chapter 14: Knowledge Retrieval (RAG)](chapter-14-knowledge-retrieval-rag.md) |

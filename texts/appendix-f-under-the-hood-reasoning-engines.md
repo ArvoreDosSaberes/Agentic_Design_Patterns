@@ -29,3 +29,8 @@ A meta não é expor cadeias internas proprietárias, mas organizar boas prátic
 ## Referências
 
 - Consulte o apêndice original para exemplos por modelo e discussões completas.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Appendix E: AI Agents on the CLI (online)](appendix-e-ai-agents-on-the-cli.md) | [Appendix G: Coding Agents](appendix-g-coding-agents.md) |

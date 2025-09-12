@@ -29,3 +29,8 @@ Componentes típicos:
 - O que: políticas, validações e gates de segurança.
 - Por quê: reduzir risco e garantir conformidade.
 - Como: filtros/classificadores, schemas, autorização e auditoria.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 17: Reasoning Techniques](chapter-17-reasoning-techniques.md) | [Chapter 19: Evaluation and Monitoring](chapter-19-evaluation-and-monitoring.md) |

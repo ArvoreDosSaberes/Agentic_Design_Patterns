@@ -134,3 +134,8 @@ autoflow_coordinator = Agent(
 
 1. LangGraph: https://www.langchain.com/
 2. Google Agent Developer Kit (ADK): https://google.github.io/adk-docs/
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 1: Prompt Chaining](chapter-01-prompt-chaining.md) | [Chapter 3: Parallelization](chapter-03-parallelization.md) |

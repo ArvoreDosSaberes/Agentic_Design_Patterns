@@ -24,3 +24,8 @@ Este índice lista termos com links internos quando aplicável.
 - Evaluation and Monitoring — ver `chapter-19-evaluation-and-monitoring.md`
 - Prioritization — ver `chapter-20-prioritization.md`
 - Exploration and Discovery — ver `chapter-21-exploration-and-discovery.md`
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Glossary](glossary.md) | [Frequently Asked Questions (FAQ) — Agentic Design Patterns](faq.md) |

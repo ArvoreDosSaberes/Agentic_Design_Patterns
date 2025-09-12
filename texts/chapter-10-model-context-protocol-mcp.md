@@ -70,3 +70,8 @@ Para interação com sistema de arquivos, use `MCPToolset` com `StdioServerParam
 - FastMCP: https://github.com/jlowin/fastmcp
 - MCP Tools for Genmedia: https://google.github.io/adk-docs/mcp/#mcp-servers-for-google-cloud-genmedia
 - MCP Databases Toolbox: https://google.github.io/adk-docs/mcp/databases/
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 9: Learning and Adaptation](chapter-09-learning-and-adaptation.md) | [Chapter 11: Goal Setting and Monitoring](chapter-11-goal-setting-and-monitoring.md) |

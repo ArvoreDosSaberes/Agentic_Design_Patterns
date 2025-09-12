@@ -26,3 +26,8 @@ Resource-Aware Optimization trata de escolher modelos, ferramentas e caminhos de
 - O que: otimização de custo/latência/qualidade.
 - Por quê: viabilizar operação eficiente e previsível.
 - Como: roteamento por políticas, cache, cotas e instrumentação.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 15: Inter-Agent Communication (A2A)](chapter-15-inter-agent-communication.md) | [Chapter 17: Reasoning Techniques](chapter-17-reasoning-techniques.md) |

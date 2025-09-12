@@ -17,3 +17,8 @@ Conceitos fundamentais e termos recorrentes (resumo):
 - Evaluation & Monitoring: medir qualidade, custo e confiabilidade.
 - Prioritization: ordenar o que fazer primeiro sob restrições.
 - Exploration & Discovery: hipóteses, experimentos e aprendizagem.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Conclusion](conclusion.md) | [Index of Terms](index-of-terms.md) |

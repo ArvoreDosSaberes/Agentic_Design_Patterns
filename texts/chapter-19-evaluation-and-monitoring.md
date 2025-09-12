@@ -29,3 +29,8 @@ Dimensões típicas:
 - O que: medir para garantir qualidade, custo e confiabilidade.
 - Por quê: base de melhoria contínua e operação segura.
 - Como: rubricas, testes, telemetria e painéis.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 18: Guardrails / Safety Patterns](chapter-18-guardrails-safety-patterns.md) | [Chapter 20: Prioritization](chapter-20-prioritization.md) |

@@ -20,3 +20,8 @@ A força do design agentic emerge da composição: várias camadas colaborando p
 ## Final Thoughts
 
 Projetar agentes é engenharia de sistemas: objetivos claros, dados confiáveis, padrões de controle, segurança e métricas. Componha pequenos blocos bem validados e evolua iterativamente.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Appendix G: Coding Agents](appendix-g-coding-agents.md) | [Glossary](glossary.md) |

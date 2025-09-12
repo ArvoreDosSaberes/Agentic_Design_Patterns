@@ -17,3 +17,8 @@
 
 - Como medir qualidade?
   Rubricas (LLM-as-a-judge + amostragens humanas), testes de regressão de prompts e métricas por rota/modelo.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Index of Terms](index-of-terms.md) | — |

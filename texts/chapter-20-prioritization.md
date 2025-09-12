@@ -29,3 +29,8 @@ Critérios comuns (exemplos):
 - O que: decidir a ordem de execução.
 - Por quê: maximizar valor sob restrições.
 - Como: pontuação multi-critério, dependências e reavaliação contínua.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 19: Evaluation and Monitoring](chapter-19-evaluation-and-monitoring.md) | [Chapter 21: Exploration and Discovery](chapter-21-exploration-and-discovery.md) |

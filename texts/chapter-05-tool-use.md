@@ -55,3 +55,8 @@ print(executor.invoke({"input": "What's the weather in London?"}))
 ## References
 
 - Consulte a documentação dos frameworks (LangChain, LangGraph, Google ADK) para padrões de binding e execução.
+
+<!-- nav-prev-next -->
+| Anterior | Próximo |
+| --- | --- |
+| [Chapter 4: Reflection](chapter-04-reflection.md) | [Chapter 6: Planning](chapter-06-planning.md) |

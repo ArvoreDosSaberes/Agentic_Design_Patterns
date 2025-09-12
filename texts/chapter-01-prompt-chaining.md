@@ -106,7 +106,7 @@ Rule of thumb: Use when tasks require multiple processing stages, external tools
 
 ## References
 
-1. LangChain Documentation on LCEL: https://python.langchain.com/v0.2/docs/core_modules/expression_language/
+1. LangChain Documentation on LCEL: https://python.langchain.com/docs/introduction/
 2. LangGraph Documentation: https://langchain-ai.github.io/langgraph/
 3. Prompt Engineering Guide - Chaining Prompts: https://www.promptingguide.ai/techniques/chaining
 4. OpenAI API Documentation: https://platform.openai.com/docs/guides/gpt/prompting
